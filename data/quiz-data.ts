@@ -1169,4 +1169,60 @@ export const quizData = [
       },
     ],
   },
+  {
+  "week": 12,
+  "questions": [
+    {
+      "question": "As per Wildlife Protection Act 1972 (WPA 1972), wild life includes any animal, aquatic or land vegetation which forms part of any _____ .",
+      "options": ["ecosystem", "state", "country", "habitat"],
+      "correctAnswer": "habitat"
+    },
+    {
+      "question": "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
+      "options": ["umbrella species", "keystone species", "flagship species", "all of the above"],
+      "correctAnswer": "all of the above"
+    },
+    {
+      "question": "Soil formation is an example of",
+      "options": ["provisioning service", "regulating service", "supporting service", "cultural service"],
+      "correctAnswer": "supporting service"
+    },
+    {
+      "question": "Zoo is an example of",
+      "options": ["in-situ conservation", "ex-situ conservation", "in-situ preservation", "ex-situ preservation"],
+      "correctAnswer": "ex-situ conservation"
+    },
+    {
+      "question": "The fig tree bears fruits in times when animals do not have much access to food. In this context, it would be a good example of",
+      "options": ["least concern species", "keystone species", "flagship species", "extinct species"],
+      "correctAnswer": "keystone species"
+    },
+    {
+      "question": "Nutrient cycling is an example of",
+      "options": ["provisioning service", "regulating service", "supporting service", "cultural service"],
+      "correctAnswer": "supporting service"
+    },
+    {
+      "question": "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
+      "options": ["umbrella species", "keystone species", "flagship species", "extinct species"],
+      "correctAnswer": "flagship species"
+    },
+    {
+      "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+      "options": ["very high", "medium", "very low", "non-existent"],
+      "correctAnswer": "medium"
+    },
+    {
+      "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+      "options": ["umbrella species", "keystone species", "flagship species", "all of the above"],
+      "correctAnswer": "all of the above"
+    },
+    {
+      "question": "Biological control of pest populations is an example of",
+      "options": ["provisioning service", "regulating service", "supporting service", "cultural service"],
+      "correctAnswer": "regulating service"
+    },
+  ],
+},
+
 ];
