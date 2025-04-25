@@ -197,10 +197,10 @@ export const quizData = [
           " Population grows in geometric progression, food supply increases in arithmetic progression",
           " Population grows in geometric progression, food supply increases in geometric progression",
           " Population grows in arithmetic progression, food supply increases in arithmetic progression",
-          "Population grows in arithmetic progression, food supply increases in geometric progression",
+          " Population grows in arithmetic progression, food supply increases in geometric progression",
         ],
         correctAnswer:
-          "Population grows in geometric progression, food supply increases in arithmetic progression",
+          " Population grows in geometric progression, food supply increases in arithmetic progression",
       },
       {
         question: "Which of these is a preventive check according to Malthus?",
